@@ -7,4 +7,4 @@ Implemented following Pluralsight tutorial.
 
 Implement as a Grails project.
 
-Access the demo at :  http://www.mrithapril.info/Bootstrap/ (Outside corporate firewall)
+Access the demo at :  http://www.mrithapril.info/Bootstrap/ 
