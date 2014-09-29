@@ -20,10 +20,9 @@
 				
 				<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
-						<li class="nav "><g:link class="create" action="create" url="http://localhost:8080/BootStrapSampleProject/modified/index">Home</g:link></li>
-						<li  class="nav"><g:link class="create" action="create" url="http://localhost:8080/BootStrapSampleProject/aboutspage/index">About</g:link></li>
-						<li  class="nav active"><g:link class="create" action="create" url="http://localhost:8080/BootStrapSampleProject/contact/index">Contact</g:link></li>
-				</ul>
+						<li class="nav "><g:link controller= "modified" class="create" action="index" >Home</g:link></li>
+						<li  class="nav "><g:link controller= "aboutspage" class="create" action="index" >About</g:link></li>
+						<li  class="nav active"><g:link controller= "contact" class="create" action="index" >Contact</g:link></li>	</ul>
 				</div>
 					
 			</div>
